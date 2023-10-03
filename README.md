@@ -13,7 +13,7 @@ import (
 )
 
 func init() {
-	frequency.FrequencyLists = zxcvbn_go_nl_frequency.zxcvbn_go_nl_frequency
+	frequency.FrequencyLists = zxcvbn_go_nl_frequency.FrequencyLists
 }
 ```
 
